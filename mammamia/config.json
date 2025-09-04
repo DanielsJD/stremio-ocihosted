@@ -65,6 +65,12 @@
             "OST_ForwardProxy": "0",
             "OST_PROXY": "0"
         },
+        "Eurostreaming":{
+            "url": "https://eurostreaming.garden",
+            "enabled": "1",
+            "ES_ForwardProxy": "0",
+            "ES_PROXY": "0"
+        },
         "AnimeWorld": {
             "url": "https://www.animeworld.ac",
             "enabled": "1",
